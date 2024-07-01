@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="700" src="https://i.ibb.co/QCFWhzt/Whats-App-Image-2024-07-01-at-11-40-10-PM.jpg"  />
+  <img height="500px" src="https://i.ibb.co/QCFWhzt/Whats-App-Image-2024-07-01-at-11-40-10-PM.jpg"  />
 </div>
 
 ###
