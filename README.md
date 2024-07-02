@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/QCFWhzt/Whats-App-Image-2024-07-01-at-11-40-10-PM.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  <img src="https://i.ibb.co/QCFWhzt/Whats-App-Image-2024-07-01-at-11-40-10-PM.jpg"  />
 </div>
 
 
@@ -93,8 +93,3 @@
 </div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ahad30/ahad30/output/snake.svg" alt="Snake animation" />
-
-###
