@@ -15,7 +15,7 @@
  </a>
  
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
    
 <a href="https://www.instagram.com/__a__h__a__d__?igsh=MWxmMzEyZDE1eHlxYw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
