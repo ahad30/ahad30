@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me :<br>Passionate MERN Stack || Frontend Developer with a strong background in creating visually appealing and user-friendly web applications. With several years of experience.<br>Throughout my short career, I have successfully contributed to the development of various projects, from startups to enterprise-level applications. My strong problem-solving skills, adaptability, and effective communication enable me to deliver solutions that exceed client expectations.</h3>
+<h3 align="left">👩‍💻  About Me :<br>Passionate Web Application Developer with a strong background in creating visually appealing and user-friendly web applications. With several years of experience.<br>Throughout my short career, I have successfully contributed to the development of various projects, from startups to enterprise-level applications. My strong problem-solving skills, adaptability, and effective communication enable me to deliver solutions that exceed client expectations.</h3>
 
 ###
 
