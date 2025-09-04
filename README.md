@@ -86,7 +86,9 @@ frameworks like react.js, next.js, node.js etc. Committed to creating visually a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahad30&theme=vue-dark&hide_border=true" height="220" alt="GitHub Streak" />
 </div>
 
+<div align="center">
 ![ahad30's Stats](https://github-readme-stats.vercel.app/api?username=ahad30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahad30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
