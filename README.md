@@ -83,7 +83,7 @@ frameworks like react.js, next.js, node.js etc. Committed to creating visually a
 <h3 align="left">🔥 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahad30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahad30&theme=vue-dark&hide_border=true" height="220" alt="GitHub Streak" />
 </div>
 
 <div align="center">
