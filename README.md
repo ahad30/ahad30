@@ -87,7 +87,7 @@ frameworks like react.js, next.js, node.js etc. Committed to creating visually a
 </div>
 
 <div align="center">
-![ahad30's Stats](https://github-readme-stats.vercel.app/api?username=ahad30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=ahad30&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="220" alt="GitHub Streak" />
 </div>
 
 <div align="center">
