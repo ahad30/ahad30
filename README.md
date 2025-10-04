@@ -47,7 +47,7 @@ frameworks like react.js, next.js, node.js etc. Committed to creating visually a
 
 <h3 align="left">🛠️ Tech Stack & Tools:</h3>
 
-<div align="left">
+<div align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
