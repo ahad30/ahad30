@@ -37,7 +37,7 @@
 <p align="left">
 A mid software engineer with an overall 3 year plus software industry experience and expertise in frontend and backend both
 frameworks like react.js, next.js, node.js etc. Committed to creating visually appealing and user-friendly websites and web application.Building clean, efficient code and optimizing web performance.<br><br>
-🔭 Currently working as a Full Stack Developer<br>
+🔭 Currently working as a Software Engineer(||)<br>
 📚 Exploring Next.js, TypeScript,Nest.js,PostgreSQL,  Prisma, Sequelize and scalable backend systems<br>
 💬 Ask me about React, Node.js, MongoDB, Express, SQL, and REST APIs<br>
 🌐 Based in Chattogram, Bangladesh
